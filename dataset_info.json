@@ -1,0 +1,13 @@
+{
+  "labels": [
+    "hello",
+    "i love you",
+    "yes",
+    "thanks",
+    "no",
+    "Like"
+  ],
+  "data_file": "dataset_data.npz",
+  "data_dir": "custom_dataset",
+  "num_samples": 300
+}
